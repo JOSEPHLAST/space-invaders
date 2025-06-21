@@ -52,16 +52,16 @@ python main.py
 
 ## 🛠️ Built With
 
-**. Python 3.13.3**
-**. Pygame**
-**. Clean, modular OOP design**
+**. Python 3.13.3**    
+**. Pygame**    
+**. Clean, modular OOP design**    
 
 
 ## 📌 Author
 
-**JOSEPHLAST**
-**🔗 (GitHub)[https://github.com/JOSEPHLAST]**
-**🔗 (LinkedIn)[https://www.linkedin.com/in/josephlast-a-aaa813354/]**
+**JOSEPHLAST**    
+**🔗 (GitHub)[https://github.com/JOSEPHLAST]**    
+**🔗 (LinkedIn)[https://www.linkedin.com/in/josephlast-a-aaa813354/]**    
 
 
 ## 🏷️ License
