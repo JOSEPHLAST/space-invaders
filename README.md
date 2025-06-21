@@ -54,9 +54,9 @@ cd space-invaders
 
 ## 🛠️ Built With
 
-**. Python 3.13.3**    
-**. Pygame**    
-**. Clean, modular OOP design**    
+**- Python 3.13.3**    
+**- Pygame**    
+**- Clean, modular OOP design**    
 
 
 ## 📌 Author
