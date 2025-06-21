@@ -47,7 +47,7 @@ python main.py
 
 ## 🖼️ Preview
 
-***(!Screenshot)[space-invaders-screenshot.png]***
+***[!Screenshot][space-invaders-screenshot.png]***
 
 
 ## 🛠️ Built With
@@ -60,8 +60,8 @@ python main.py
 ## 📌 Author
 
 **JOSEPHLAST**    
-**🔗 (GitHub)[https://github.com/JOSEPHLAST]**    
-**🔗 (LinkedIn)[https://www.linkedin.com/in/josephlast-a-aaa813354/]**    
+**🔗[GitHub][https://github.com/JOSEPHLAST]**    
+**🔗 [LinkedIn][https://www.linkedin.com/in/josephlast-a-aaa813354/]**    
 
 
 ## 🏷️ License
