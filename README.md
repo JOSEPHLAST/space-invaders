@@ -34,15 +34,17 @@ space-invaders/
 ## 🚀 Run It Locally
 
 ### 1. Clone the Repo:
+```text
 git clone    
 https://github.com/JOSEPHLAST/space-invaders.git    
-cd space-invaders    
+cd space-invaders
+```  
 
 ### 2. Install dependencies:
-pip install pygame
+```pip install pygame```
 
 ### 3. Launch the game:
-python main.py
+```python main.py```
 
 
 ## 🖼️ Preview
@@ -60,8 +62,7 @@ python main.py
 ## 📌 Author
 
 **JOSEPHLAST**    
-**🔗[GitHub](https://github.com/JOSEPHLAST)**    
-**🔗 [LinkedIn](https://www.linkedin.com/in/josephlast-a-aaa813354/)**    
+**🔗 [GitHub](https://github.com/JOSEPHLAST)** — **🔗 [LinkedIn](https://www.linkedin.com/in/josephlast-a-aaa813354/)**    
 
 
 ## 🏷️ License
