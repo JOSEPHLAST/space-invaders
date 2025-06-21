@@ -49,7 +49,7 @@ cd space-invaders
 
 ## 🖼️ Preview
 
-***[Homepage](space-invaders-homepage.png)***
+***[Homepage](space-invaders-homepage.png)***    
 ***[In-game](space-invaders-in-game.png)***
 
 
